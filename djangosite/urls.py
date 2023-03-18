@@ -20,5 +20,5 @@ from women.views import index
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('women/', index),
+    path('women/', index)
 ]

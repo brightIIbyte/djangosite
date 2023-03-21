@@ -6,4 +6,5 @@ def index(request):
 
 def categories(request):
     return HttpResponse("<h1>Статьи по категориям</h1>")
+
 #doneformoment

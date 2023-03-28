@@ -24,5 +24,3 @@ urlpatterns = [
 ]
 
 handler404 = pageNotFound
-
-#path
